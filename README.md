@@ -1,1 +1,1 @@
-Caixa de ferramentas com alguns scripts shell de enumeração de hosts
+Caixa de ferramentas com alguns scripts shell de enumeração de hosts, e algumas outras ferramentas simples.
