@@ -1,0 +1,87 @@
+archive.org
+  registro mais antigo em 15/09/2017
+  
+  apresenta o mesmo layout e infos que tem atualmente
+
+arin.net
+
+  Net Range 37.59.174.224 - 37.59.174.239
+
+
+  Source Registry RIPE NCC 
+  ripe.net
+  Abuse contact for '37.59.174.224 - 37.59.174.239' is 'contato@desec.com.br'
+
+  org-name:        Desec Security desec.com.br
+  address:         Av. Paulista
+  address:         01311-200 Sao Paulo
+  address:         BR
+  e-mail:          contato@desec.com.br
+  phone:           +55.1130752780
+
+ghdb e google dorks
+
+  site:"businesscorp.com.br" inurl:intranet
+    http://www.businesscorp.com.br/intranet/home.php
+
+  site:"businesscorp.com.br" intitle:"index of"
+    http://www.businesscorp.com.br/ri/
+      este arquivo releva relação com Rogerio Severovisk
+
+  site:"businesscorp.com.br" -robots.txt ext:txt
+
+    http://businesscorp.com.br/config.txt
+
+      CONFIGURACOES DO SERVIDOR
+
+      HARDWARE DELL
+
+      usuario: admin
+      senha: b3sac992883
+
+      KEY: Gh4ck1ng9988299311
+
+  site:"businesscorp.com.br" -robots.txt 
+
+    http://rh.businesscorp.com.br/
+    http://businesscorp.com.br/sitemap.xml
+
+  site:"businesscorp.com.br" ext:php
+    
+    pagina para portal da intranet
+    http://www.businesscorp.com.br/intranet/home.php
+
+netcraft.com
+  Hosting company 	OVH
+
+  Nameserver 	ns1.businesscorp.com.br
+IPv4 address 	37.59.174.225
+DNS admin 	hostmaster@businesscorp.com.br
+Organisation 	Desec Security Seguran�a da Informa��o LTDA, Braz
+Domain registrar 	nic.br
+Nameserver organisation 	whois.nic.br
+Last Reboot (57 days ago)
+
+historico hospedagem
+Failover Ips 	37.59.174.225 	Linux 	Apache/2.2.22 Debian 	17-Nov-2020
+Failover Ips 	37.59.174.225 	unknown 	Apache/2.2.22 Debian 	23-Oct-2019
+Failover Ips 	37.59.174.225 	Linux 	Apache/2.2.22 Debian 	22-Oct-2019
+
+PHP 	PHP is supported and/or running
+
+Quais são os domínios relacionados a empresa Business Corp?
+
+businesscorp.com.br
+
+
+Quais os subdomínios encontrados?
+
+Quais os endereços de IP encontrados?
+
+Existe algum range/bloco de IP próprio?
+
+Quem são os responsáveis?
+
+Quais nomes de pessoas e e-mails foram encontrados?
+
+
